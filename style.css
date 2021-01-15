@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Forte;
+}
+.carousel-item img
+{
+    width: 100%;
+    height: 90vh;
+}
+.navbar-nav 
+{
+    margin-left: auto;
+}
+.check:hover
+{
+  color:black;
+  background-color: #fff;
+}
